@@ -1,0 +1,13 @@
+memo = "5434c36abf2f615aec6156d1563ad97c84bc2984f67fa29674be782d91aacc11"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/vishvananda/netlink"
+  packages = [".","nl"]
+  revision = "b71e0bb214aebd980216cb2516e8bd7bca9e9672"
+
+[[projects]]
+  branch = "master"
+  name = "github.com/vishvananda/netns"
+  packages = ["."]
+  revision = "54f0e4339ce73702a0607f49922aaa1e749b418d"
